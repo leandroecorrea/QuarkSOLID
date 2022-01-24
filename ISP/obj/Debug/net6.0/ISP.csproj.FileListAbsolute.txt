@@ -1,0 +1,15 @@
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ISP.exe
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ISP.deps.json
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ISP.runtimeconfig.json
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ISP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ref\ISP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\bin\Debug\net6.0\ISP.pdb
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.AssemblyInfo.cs
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ref\ISP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.pdb
+C:\Users\Leandro\Documents\QuarkSOLID\ISP\obj\Debug\net6.0\ISP.genruntimeconfig.cache

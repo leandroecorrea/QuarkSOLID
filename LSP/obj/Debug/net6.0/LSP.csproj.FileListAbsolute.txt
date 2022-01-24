@@ -1,0 +1,15 @@
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\LSP.exe
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\LSP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\ref\LSP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\bin\Debug\net6.0\LSP.pdb
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\ref\LSP.dll
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.pdb
+C:\Users\Leandro\Documents\QuarkSOLID\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
